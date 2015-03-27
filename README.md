@@ -22,7 +22,7 @@ are a number of pre-compiled binaries in the directory:
 
 Copy the one for your system into the PATH, on a linux system you may copy it to:
 
-/usr/loca/bin/shairport_helper   - note the file needs to be renamed.
+/usr/local/bin/shairport_helper   - note the file needs to be renamed.
  
 To compile the helper app, on Linux:
 
