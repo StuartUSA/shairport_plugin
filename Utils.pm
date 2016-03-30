@@ -48,7 +48,7 @@ sub helperBinary {
         }
     }
     elsif ( $Config{'archname'} =~ /linux/ && $Config{'archname'} =~ /arm/ ) {
-        if ( $Config{'archname'} =~ /arm-linux-gnueabihf-thread-multi-64int/ || $Config{'archname'} =~ /arm-linux-gnueabi-thread-multi-64int/ ) {
+        if ( $Config{'archname'} =~ /arm-linux-gnueabi(hf)-thread-multi-64int/ ) {
             $shairtunes_helper = $directory . "helperBinaries/shairport_helper-arm-gnueabihf-multi-64int";
         }
     }
