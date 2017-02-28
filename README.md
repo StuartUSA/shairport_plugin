@@ -20,7 +20,7 @@ OSX:
 
 Now open the LMS GUI; click on Settings, then select the Plugins tab, at the bottom of the page add the repo:
 
-http://raw.github.com/disaster123/shairport2_plugin/master/public.xml
+https://raw.github.com/disaster123/shairport2_plugin/master/public.xml
 
 Next install the plugin and enable as usual.
 
